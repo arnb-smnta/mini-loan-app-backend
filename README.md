@@ -2,6 +2,8 @@
 
 documentationURL-https://documenter.getpostman.com/view/27224450/2sAYBRFtXE
 
+This backend is hosted at : https://mini-loan-app-backend-production.up.railway.app
+
 # **User Authentication API**
 
 This API provides a comprehensive set of endpoints to handle user authentication, authorization, and profile management. It includes functionalities such as user registration, login, email verification, password reset, and role management.
