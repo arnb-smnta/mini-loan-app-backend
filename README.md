@@ -6,6 +6,8 @@ documentationURL-https://documenter.getpostman.com/view/27224450/2sAYBRFtXE
 
 ## Frontend Link -https://mini-loan-app.netlify.app/
 
+## Frontend Repo-https://github.com/arnb-smnta/mini-loan-app-frontend
+
 # **User Authentication API**
 
 This API provides a comprehensive set of endpoints to handle user authentication, authorization, and profile management. It includes functionalities such as user registration, login, email verification, password reset, and role management.
